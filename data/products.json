@@ -87,10 +87,10 @@
       "first_seen": "2026-05-18",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/agenton-me.md",
+      "title": "AgentOn",
+      "summary": "AI Agent 打工赚钱的赏金任务平台",
+      "category": "AI Agent"
     },
     {
       "domain": "musicguessr.io",
@@ -105,10 +105,10 @@
       "first_seen": "2026-05-28",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/musicguessr-io.md",
+      "title": "Music Guessr",
+      "summary": "GeoGuessr 式音乐国度猜谜日更游戏",
+      "category": "游戏"
     },
     {
       "domain": "swagga.ai",
@@ -123,10 +123,10 @@
       "first_seen": "2026-05-19",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/swagga-ai.md",
+      "title": "Swagga",
+      "summary": "聚合顶级模型的 AI 图视创作工作室",
+      "category": "AI 视频"
     },
     {
       "domain": "miso-one.com",
@@ -141,10 +141,10 @@
       "first_seen": "2026-06-04",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/miso-one-com.md",
+      "title": "Miso One",
+      "summary": "Miso TTS 8B 开源语音模型的演示与托管站点",
+      "category": "AI 音频"
     },
     {
       "domain": "uselink.app",
@@ -159,10 +159,10 @@
       "first_seen": "2026-05-21",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/uselink-app.md",
+      "title": "Uselink",
+      "summary": "把 HTML / Markdown 变成可评论的分享链接",
+      "category": "工具"
     },
     {
       "domain": "meowdoku.app",
@@ -177,10 +177,10 @@
       "first_seen": "2026-06-02",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/meowdoku-app.md",
+      "title": "Meowdoku",
+      "summary": "猫咪主题的浏览器逻辑解谜游戏",
+      "category": "游戏"
     },
     {
       "domain": "razycut.io",
@@ -195,10 +195,10 @@
       "first_seen": "2026-06-04",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/razycut-io.md",
+      "title": "Razycut",
+      "summary": "AI 自动把 YouTube 长视频剪成爆款短视频",
+      "category": "AI 视频"
     },
     {
       "domain": "pixmira.ai",
@@ -213,10 +213,10 @@
       "first_seen": "2026-06-22",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/pixmira-ai.md",
+      "title": "PixMira AI",
+      "summary": "免费 AI 图片编辑与生成工具",
+      "category": "AI 图像"
     },
     {
       "domain": "creen.ai",
