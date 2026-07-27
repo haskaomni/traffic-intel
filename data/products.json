@@ -231,10 +231,10 @@
       "first_seen": "2025-12-24",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/creen.ai.md",
+      "title": "Creen AI",
+      "summary": "免注册的多模型 AI 生成聚合站",
+      "category": "AI 生成聚合"
     },
     {
       "domain": "hi3d.ai",
@@ -249,10 +249,10 @@
       "first_seen": "2026-01-30",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/hi3d.ai.md",
+      "title": "Hi3D",
+      "summary": "一站式 AI 3D 创作与打印平台",
+      "category": "AI 3D"
     },
     {
       "domain": "wcpredictor.app",
@@ -267,10 +267,10 @@
       "first_seen": "2026-01-23",
       "board_desc": "Predict the 2026 FIFA World Cup. Create brackets, compete with friends, and climb the leaderboard.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/wcpredictor.app.md",
+      "title": "WC Predictor",
+      "summary": "免费的 2026 世界杯比分预测游戏",
+      "category": "游戏"
     },
     {
       "domain": "vocuno.com",
@@ -285,10 +285,10 @@
       "first_seen": "2026-02-03",
       "board_desc": "Vocuno turns your lyrics into full tracks with studio-quality AI vocals and instrumentals. AI vocal generation, stem separation, voice conversion and mixing — all in one tool.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/vocuno.com.md",
+      "title": "Vocuno",
+      "summary": "聚合多家 AI 引擎的一站式 AI 音乐工作站",
+      "category": "AI 音频"
     },
     {
       "domain": "clumi.ai",
@@ -303,10 +303,10 @@
       "first_seen": "2025-12-03",
       "board_desc": "The vocal remover quickly isolates the instrument in one click. You can get multiple tracks like drums, bass, guitar, piano, and more.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/clumi.ai.md",
+      "title": "Clumi",
+      "summary": "免费在线 AI 人声/音轨分离工具",
+      "category": "AI 音频"
     },
     {
       "domain": "humanizeai.co",
@@ -321,10 +321,10 @@
       "first_seen": "2026-04-29",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/humanizeai.co.md",
+      "title": "HumanizeAI",
+      "summary": "AI 文本改写工具，让 AI 生成内容通过检测",
+      "category": "AI 写作"
     },
     {
       "domain": "16types.ai",
@@ -339,10 +339,10 @@
       "first_seen": "2026-04-20",
       "board_desc": "Discover your true Personality Type",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/16types.ai.md",
+      "title": "16Types",
+      "summary": "以人格测试引流的订阅制成长计划",
+      "category": "工具"
     },
     {
       "domain": "vocatype.app",
@@ -357,10 +357,10 @@
       "first_seen": "2026-04-02",
       "board_desc": "Free touch typing tutor for English, Russian, Thai, and Korean keyboards. Learn to type with all 10 fingers through guided lessons and real-time progress tracking.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/vocatype.app.md",
+      "title": "VocaType",
+      "summary": "免费多语言盲打（touch typing）教练",
+      "category": "工具"
     },
     {
       "domain": "trooly.ai",
