@@ -1,0 +1,5 @@
+node_modules/
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+agent/update.log
+.last_deploy_hash
