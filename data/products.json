@@ -15,10 +15,10 @@
       "first_seen": "2026-06-02",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/ezmaker-ai.md",
+      "title": "EzMaker AI",
+      "summary": "免费免注册的在线 AI 图片编辑与生成工具站",
+      "category": "AI 图像"
     },
     {
       "domain": "foziscribe.ai",
@@ -33,10 +33,10 @@
       "first_seen": "2026-06-06",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/foziscribe-ai.md",
+      "title": "FoziScribe",
+      "summary": "基于 Whisper 的 99 语言 AI 音频转写工具",
+      "category": "AI 音频"
     },
     {
       "domain": "snapgen.ai",
@@ -51,10 +51,10 @@
       "first_seen": "2026-06-16",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/snapgen-ai.md",
+      "title": "SnapGen",
+      "summary": "聚合 Veo/Sora 2 等模型的免费 AI 视频/图片生成站",
+      "category": "AI 视频"
     },
     {
       "domain": "logomotion.design",
@@ -69,10 +69,10 @@
       "first_seen": "2026-06-04",
       "board_desc": null,
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/logomotion-design.md",
+      "title": "Logomotion",
+      "summary": "一键把 Logo 变成动画品牌视频的在线工具",
+      "category": "设计工具"
     },
     {
       "domain": "agenton.me",
@@ -375,10 +375,10 @@
       "first_seen": "2026-01-14",
       "board_desc": "Trooly is the AI-native research platform that transforms how businesses understand their users. Powered by advanced Multimodal Voice Agents.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/trooly-ai.md",
+      "title": "Trooly",
+      "summary": "AI 主导的 45 分钟深度用户访谈与研究平台",
+      "category": "AI 用户研究"
     },
     {
       "domain": "openfate.ai",
@@ -393,10 +393,10 @@
       "first_seen": "2026-01-27",
       "board_desc": "Generate your Bazi, Ziwei, and astrology birth charts for free. OpenFate translates ancient chart readings into modern, actionable life strategies for your career, wealth, and relationships.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/openfate-ai.md",
+      "title": "OpenFate",
+      "summary": "AI 驱动的八字/紫微/星盘命理与人生策略平台",
+      "category": "AI 命理"
     },
     {
       "domain": "riverflow.ai",
@@ -411,10 +411,10 @@
       "first_seen": "2025-09-18",
       "board_desc": "Iconic visuals for every campaign you ship. Tune AI to your brand and produce high-quality creative you don't have to fix before shipping.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/riverflow-ai.md",
+      "title": "Riverflow",
+      "summary": "品牌专属 AI 创意生成平台，训练品牌模型批量产出视觉素材",
+      "category": "AI 图像"
     },
     {
       "domain": "screentester.io",
@@ -429,10 +429,10 @@
       "first_seen": "2026-02-11",
       "board_desc": "Free online screen test with 20+ tools. Test your monitor for dead pixels, burn-in, color accuracy, refresh rate, and more. No download — runs in browser.",
       "added": "2026-07-27",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/screentester-io.md",
+      "title": "ScreenTester",
+      "summary": "浏览器内免费屏幕检测工具集（20+ 工具）",
+      "category": "工具"
     }
   ]
 }
