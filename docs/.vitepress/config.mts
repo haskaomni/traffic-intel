@@ -13,7 +13,11 @@ function productSidebar() {
   return data.products
     .filter((p) => p.report)
     .sort((a, b) => (b.added || '').localeCompare(a.added || ''))
-    .map((p) => ({ text: p.title || p.domain, link: `/products/${p.domain}` }))
+    .map((p) => ({
+      text: p.title || p.domain,
+      // 文件名 slug 化：点号会让 Pages 误判扩展名导致 404
+      link: `/products/${p.domain.replaceAll('.', '-')}`,
+    }))
 }
 
 export default defineConfig({

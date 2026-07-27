@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """build_index.py — 从 data/products.json 生成 docs/products/index.md 总览页。
 
-数据与展示分离：智能体只维护 data/products.json 与 docs/products/<domain>.md，
+数据与展示分离：智能体只维护 data/products.json 与 docs/products/<domain-slug>.md，
 本脚本负责渲染产品总览表（类似 ai-game-intel 的 build.py 角色）。
 """
 import json
@@ -34,7 +34,8 @@ def main():
         ranks = " / ".join(f"#{p['rank'][b]}" for b in p["boards"] if b in p["rank"])
         title = p["title"] or p["domain"]
         if p["report"]:
-            name = f"[{title}](./{p['domain']})"
+            slug = p["domain"].replace(".", "-")
+            name = f"[{title}](./{slug})"
             report = "✅"
         else:
             name = title

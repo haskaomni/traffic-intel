@@ -19,7 +19,8 @@ traffic.cv 的数字是**多源建模的月度估计值**（非 analytics 导出
 1. **抓榜**：`agent/fetch_boards.py` 抓取两张榜，自动回退到最新非空月份，
    新出现的域名登记进 `data/products.json`。
 2. **调研**：Kimi Code 无头智能体读取待调研队列（每次最多 8 个，trending 榜优先），
-   逐个打开官网、检索公开报道，产出 `docs/products/<domain>.md` 中文报告。
+   逐个打开官网、检索公开报道，产出 `docs/products/<domain-slug>.md` 中文报告
+   （文件名为域名点号替换连字符，避免 Pages 把 `.ai` 等当扩展名导致 404）。
 3. **校验 + 重建**：JSON 结构与报告文件完整性校验通过后，
    `agent/build_index.py` 重建产品总览表。
 4. **发布**：`git push` 触发 GitHub Actions 构建 VitePress 并部署到 GitHub Pages；

@@ -33,7 +33,7 @@ traffic-intel/
    12 条），新域名追加到 `data/products.json`（`report=null` 进入待调研队列）。
 2. `run.sh` 把当天 / 上次日期注入 `agent/prompt.md`，以 `kimi -p` 无头模式执行：
    智能体对待调研产品逐个 FetchURL 官网 + WebSearch 检索，
-   写 `docs/products/<domain>.md` 报告并回填注册表（每次最多 8 个）。
+   写 `docs/products/<domain-slug>.md` 报告并回填注册表（每次最多 8 个）。
 3. 质量闸：JSON 结构校验 + 报告文件存在性检查，失败则中断不推送。
 4. `build_index.py` 重建产品总览页；有变化则 `git push`，
    GitHub Actions 自动构建 VitePress 并部署 Pages；
