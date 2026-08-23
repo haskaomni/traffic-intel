@@ -1,6 +1,6 @@
 {
-  "month": "2026-06",
-  "fetched": "2026-08-15",
+  "month": "2026-07",
+  "fetched": "2026-08-24",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -422,17 +422,395 @@
         "trending"
       ],
       "rank": {
-        "trending": 134
+        "trending": 46
       },
-      "visits": "50.5K",
-      "growth": "43.4K",
+      "visits": "172.2K",
+      "growth": "121.7K",
       "first_seen": "2026-02-11",
-      "board_desc": "Free online screen test with 20+ tools. Test your monitor for dead pixels, burn-in, color accuracy, refresh rate, and more. No download — runs in browser.",
+      "board_desc": "20+ free online screen testing tools. Dead pixel test, burn-in check, color accuracy, greyscale, resolution checker, refresh rate, gradient test, and more.",
       "added": "2026-07-27",
       "report": "products/screentester-io.md",
       "title": "ScreenTester",
       "summary": "浏览器内免费屏幕检测工具集（20+ 工具）",
       "category": "工具"
+    },
+    {
+      "domain": "getangie.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 14
+      },
+      "visits": "436.1K",
+      "growth": "428.7K",
+      "first_seen": "2026-06-27",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "musiccup.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 35
+      },
+      "visits": "137.3K",
+      "growth": "137.3K",
+      "first_seen": "2026-07-22",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "emojer.org",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 45
+      },
+      "visits": "57.1K",
+      "growth": "57.1K",
+      "first_seen": "2026-07-09",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "vixal.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 47
+      },
+      "visits": "55.3K",
+      "growth": "55.3K",
+      "first_seen": "2026-06-22",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "instaplay.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 52
+      },
+      "visits": "46.7K",
+      "growth": "46.7K",
+      "first_seen": "2026-06-30",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "freememes.net",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 58
+      },
+      "visits": "38.8K",
+      "growth": "38.8K",
+      "first_seen": "2026-07-13",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "imagegenbox.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 61
+      },
+      "visits": "37.7K",
+      "growth": "37.7K",
+      "first_seen": "2026-06-25",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "eimg.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 74
+      },
+      "visits": "29.2K",
+      "growth": "29.2K",
+      "first_seen": "2026-07-09",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "gridmakerapp.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 88
+      },
+      "visits": "23.9K",
+      "growth": "23.9K",
+      "first_seen": "2026-07-05",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "cliptica.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 114
+      },
+      "visits": "14.8K",
+      "growth": "14.8K",
+      "first_seen": "2026-07-08",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "polarisugc.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 135
+      },
+      "visits": "10.3K",
+      "growth": "10.3K",
+      "first_seen": "2026-07-10",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "imagefree.net",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 10
+      },
+      "visits": "1M",
+      "growth": "925.4K",
+      "first_seen": "2026-03-12",
+      "board_desc": "Get in touch with Imagefree. We're here to help with any questions about our free AI image generator.",
+      "added": "2026-08-17",
+      "report": "products/imagefree-net.md",
+      "title": "ImageFree",
+      "summary": "免注册、无限制的免费 AI 文生图工具",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "capafy.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 49
+      },
+      "visits": "164.2K",
+      "growth": "134.6K",
+      "first_seen": "2026-04-17",
+      "board_desc": "Capafy AI is an AI agent store for Claude Code, Codex, Hermes, and OpenClaw Skills. Discover expert Skills, run them online, or upload your own to make money.",
+      "added": "2026-08-17",
+      "report": "products/capafy-ai.md",
+      "title": "Capafy",
+      "summary": "AI Skill 交易市场，创作者可变现",
+      "category": "AI 工具"
+    },
+    {
+      "domain": "thegridmaker.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 54
+      },
+      "visits": "146.1K",
+      "growth": "123.3K",
+      "first_seen": "2026-03-27",
+      "board_desc": "Create perfect drawing grids instantly with our free online grid maker. Upload any image, customize grid size, colors & opacity, and download as PNG, JPG or PDF. No signup required.",
+      "added": "2026-08-17",
+      "report": "products/thegridmaker-com.md",
+      "title": "Grid Maker",
+      "summary": "免费在线绘画网格生成工具",
+      "category": "工具"
+    },
+    {
+      "domain": "starting5.app",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 56
+      },
+      "visits": "141.6K",
+      "growth": "122K",
+      "first_seen": "2026-05-16",
+      "board_desc": "Five players. Five guesses. One daily NBA lineup. New puzzle every day at midnight ET.",
+      "added": "2026-08-17",
+      "report": "products/starting5-app.md",
+      "title": "Starting 5",
+      "summary": "每日 NBA 历史首发阵容竞猜游戏",
+      "category": "游戏"
+    },
+    {
+      "domain": "fontvibe.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 69
+      },
+      "visits": "107.6K",
+      "growth": "71.9K",
+      "first_seen": "2026-03-29",
+      "board_desc": "Browse thousands of AI-generated text effects — neon glow, vintage, 3D, gothic, cyberpunk & more. AI typography generator with instant PNG/JPG download. Create your own text effects for free.",
+      "added": "2026-08-17",
+      "report": "products/fontvibe-ai.md",
+      "title": "FontVibe",
+      "summary": "免费的 AI 文字特效生成器",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "ivycraft.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 70
+      },
+      "visits": "105.9K",
+      "growth": "101.7K",
+      "first_seen": "2026-04-20",
+      "board_desc": "Craft complex materials into clear expression. Use IvyCraft's AI Agent and Workflow Loops to generate consistent comics, podcasts, PPTs, and videos.",
+      "added": "2026-08-17",
+      "report": "products/ivycraft-ai.md",
+      "title": "IvyCraft",
+      "summary": "文档一键转漫画/播客/PPT 的 AI 工作区",
+      "category": "AI 内容创作"
+    },
+    {
+      "domain": "aiattractivenesstest.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 76
+      },
+      "visits": "99.2K",
+      "growth": "89.3K",
+      "first_seen": "2026-03-27",
+      "board_desc": "How attractive am I? Upload a selfie and get an AI-powered attractiveness score with detailed facial analysis. Free, fast, and accurate.",
+      "added": "2026-08-17",
+      "report": "products/aiattractivenesstest-ai.md",
+      "title": "AI Attractiveness Test",
+      "summary": "上传自拍，AI 给你的颜值打分",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "tapicsai.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 78
+      },
+      "visits": "95.2K",
+      "growth": "84.8K",
+      "first_seen": "2026-05-13",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": "products/tapicsai-com.md",
+      "title": "TaPicsAI",
+      "summary": "模板化的一键 AI 图片特效生成器",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "magicremover.org",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 108
+      },
+      "visits": "62.2K",
+      "growth": "60.8K",
+      "first_seen": "2026-04-19",
+      "board_desc": "Free AI object remover. Brush any object, person, text, or watermark out of your photo in seconds. No signup, no watermark, no credit card.",
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "make.design",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 114
+      },
+      "visits": "60.4K",
+      "growth": "52.8K",
+      "first_seen": "2026-05-30",
+      "board_desc": null,
+      "added": "2026-08-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
     }
   ]
 }
