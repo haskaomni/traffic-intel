@@ -4,16 +4,16 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-07** traffic 榜（new / trending），共收录 45 个产品，最近抓取：2026-08-24。
+跟踪榜单：**2026-07** traffic 榜（new / trending），共收录 45 个产品，最近抓取：2026-08-25。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| getangie.com | — | new | #14 | 436.1K | 428.7K | 2026-06-27 | 调研中 |
-| musiccup.app | — | new | #35 | 137.3K | 137.3K | 2026-07-22 | 调研中 |
-| emojer.org | — | new | #45 | 57.1K | 57.1K | 2026-07-09 | 调研中 |
-| vixal.app | — | new | #47 | 55.3K | 55.3K | 2026-06-22 | 调研中 |
-| instaplay.ai | — | new | #52 | 46.7K | 46.7K | 2026-06-30 | 调研中 |
-| freememes.net | — | new | #58 | 38.8K | 38.8K | 2026-07-13 | 调研中 |
+| [Angie](./getangie-com) | 异地恋情侣的实时双人游戏与约会中心 | new | #14 | 436.1K | 428.7K | 2026-06-27 | ✅ |
+| [Music Cup](./musiccup-app) | 为喜爱的歌手办一场歌曲世界杯 | new | #35 | 137.3K | 137.3K | 2026-07-22 | ✅ |
+| [Emojer](./emojer-org) | 免费在线 Emoji 翻译与复制工具站 | new | #45 | 57.1K | 57.1K | 2026-07-09 | ✅ |
+| [Vixal](./vixal-app) | 一句话生成爆款短视频的 AI 工具 | new | #47 | 55.3K | 55.3K | 2026-06-22 | ✅ |
+| [Instaplay](./instaplay-ai) | AI 一句话生成可分享的浏览器多人游戏 | new | #52 | 46.7K | 46.7K | 2026-06-30 | ✅ |
+| [FreeMemes](./freememes-net) | 免费梗图信息流，即刷即下 | new | #58 | 38.8K | 38.8K | 2026-07-13 | ✅ |
 | imagegenbox.com | — | new | #61 | 37.7K | 37.7K | 2026-06-25 | 调研中 |
 | eimg.ai | — | new | #74 | 29.2K | 29.2K | 2026-07-09 | 调研中 |
 | gridmakerapp.com | — | new | #88 | 23.9K | 23.9K | 2026-07-05 | 调研中 |
@@ -27,8 +27,8 @@ title: 产品总览
 | [IvyCraft](./ivycraft-ai) | 文档一键转漫画/播客/PPT 的 AI 工作区 | trending | #70 | 105.9K | 101.7K | 2026-04-20 | ✅ |
 | [AI Attractiveness Test](./aiattractivenesstest-ai) | 上传自拍，AI 给你的颜值打分 | trending | #76 | 99.2K | 89.3K | 2026-03-27 | ✅ |
 | [TaPicsAI](./tapicsai-com) | 模板化的一键 AI 图片特效生成器 | trending | #78 | 95.2K | 84.8K | 2026-05-13 | ✅ |
-| magicremover.org | Free AI object remover. Brush any object, … | trending | #108 | 62.2K | 60.8K | 2026-04-19 | 调研中 |
-| make.design | — | trending | #114 | 60.4K | 52.8K | 2026-05-30 | 调研中 |
+| [MagicRemover](./magicremover-org) | 免费免注册的 AI 图片杂物擦除工具 | trending | #108 | 62.2K | 60.8K | 2026-04-19 | ✅ |
+| [Make.design](./make-design) | AI 一句话生成网站与营销设计 | trending | #114 | 60.4K | 52.8K | 2026-05-30 | ✅ |
 | [EzMaker AI](./ezmaker-ai) | 免费免注册的在线 AI 图片编辑与生成工具站 | new | #19 | 105.8K | 105.8K | 2026-06-02 | ✅ |
 | [FoziScribe](./foziscribe-ai) | 基于 Whisper 的 99 语言 AI 音频转写工具 | new | #28 | 75.8K | 75.8K | 2026-06-06 | ✅ |
 | [SnapGen](./snapgen-ai) | 聚合 Veo/Sora 2 等模型的免费 AI 视频/图片生成站 | new | #53 | 33.8K | 33.8K | 2026-06-16 | ✅ |

@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "fetched": "2026-08-24",
+  "fetched": "2026-08-25",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -447,10 +447,10 @@
       "first_seen": "2026-06-27",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/getangie-com.md",
+      "title": "Angie",
+      "summary": "异地恋情侣的实时双人游戏与约会中心",
+      "category": "社交工具"
     },
     {
       "domain": "musiccup.app",
@@ -465,10 +465,10 @@
       "first_seen": "2026-07-22",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/musiccup-app.md",
+      "title": "Music Cup",
+      "summary": "为喜爱的歌手办一场歌曲世界杯",
+      "category": "游戏"
     },
     {
       "domain": "emojer.org",
@@ -483,10 +483,10 @@
       "first_seen": "2026-07-09",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/emojer-org.md",
+      "title": "Emojer",
+      "summary": "免费在线 Emoji 翻译与复制工具站",
+      "category": "工具"
     },
     {
       "domain": "vixal.app",
@@ -501,10 +501,10 @@
       "first_seen": "2026-06-22",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/vixal-app.md",
+      "title": "Vixal",
+      "summary": "一句话生成爆款短视频的 AI 工具",
+      "category": "AI 视频"
     },
     {
       "domain": "instaplay.ai",
@@ -519,10 +519,10 @@
       "first_seen": "2026-06-30",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/instaplay-ai.md",
+      "title": "Instaplay",
+      "summary": "AI 一句话生成可分享的浏览器多人游戏",
+      "category": "AI 游戏"
     },
     {
       "domain": "freememes.net",
@@ -537,10 +537,10 @@
       "first_seen": "2026-07-13",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/freememes-net.md",
+      "title": "FreeMemes",
+      "summary": "免费梗图信息流，即刷即下",
+      "category": "内容娱乐"
     },
     {
       "domain": "imagegenbox.com",
@@ -789,10 +789,10 @@
       "first_seen": "2026-04-19",
       "board_desc": "Free AI object remover. Brush any object, person, text, or watermark out of your photo in seconds. No signup, no watermark, no credit card.",
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/magicremover-org.md",
+      "title": "MagicRemover",
+      "summary": "免费免注册的 AI 图片杂物擦除工具",
+      "category": "AI 图像"
     },
     {
       "domain": "make.design",
@@ -807,10 +807,10 @@
       "first_seen": "2026-05-30",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/make-design.md",
+      "title": "Make.design",
+      "summary": "AI 一句话生成网站与营销设计",
+      "category": "AI 设计"
     }
   ]
 }
