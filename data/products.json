@@ -1,6 +1,6 @@
 {
   "month": "2026-07",
-  "fetched": "2026-08-25",
+  "fetched": "2026-08-26",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -555,10 +555,10 @@
       "first_seen": "2026-06-25",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/imagegenbox-com.md",
+      "title": "ImageGenBox",
+      "summary": "聚合 Flux/GPT Image 等模型的在线 AI 图像生成工具",
+      "category": "AI 图像"
     },
     {
       "domain": "eimg.ai",
@@ -573,10 +573,10 @@
       "first_seen": "2026-07-09",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/eimg-ai.md",
+      "title": "EIMG AI",
+      "summary": "套壳 Nano Banana 模型的 AI 图像生成编辑站",
+      "category": "AI 图像"
     },
     {
       "domain": "gridmakerapp.com",
@@ -591,10 +591,10 @@
       "first_seen": "2026-07-05",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/gridmakerapp-com.md",
+      "title": "Grid Maker",
+      "summary": "免费在线绘画网格生成器，免注册即开即用",
+      "category": "工具"
     },
     {
       "domain": "cliptica.com",
@@ -609,10 +609,10 @@
       "first_seen": "2026-07-08",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/cliptica-com.md",
+      "title": "Cliptica",
+      "summary": "AI 长视频切片工具，一键成片并管理 clipper 计酬台账",
+      "category": "AI 视频"
     },
     {
       "domain": "polarisugc.com",
@@ -627,10 +627,10 @@
       "first_seen": "2026-07-10",
       "board_desc": null,
       "added": "2026-08-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/polarisugc-com.md",
+      "title": "Polaris",
+      "summary": "面向电商的 AI UGC 广告视频生成工具",
+      "category": "AI 视频"
     },
     {
       "domain": "imagefree.net",
