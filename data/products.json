@@ -1,6 +1,6 @@
 {
-  "month": "2026-07",
-  "fetched": "2026-09-18",
+  "month": "2026-08",
+  "fetched": "2026-09-19",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -458,12 +458,12 @@
         "new"
       ],
       "rank": {
-        "new": 35
+        "new": 8
       },
-      "visits": "137.3K",
-      "growth": "137.3K",
+      "visits": "929K",
+      "growth": "791.8K",
       "first_seen": "2026-07-22",
-      "board_desc": null,
+      "board_desc": "Host a World Cup for your favorite artist and crown your favorite song. Official site: musiccup.app",
       "added": "2026-08-17",
       "report": "products/musiccup-app.md",
       "title": "Music Cup",
@@ -811,6 +811,348 @@
       "title": "Make.design",
       "summary": "AI 一句话生成网站与营销设计",
       "category": "AI 设计"
+    },
+    {
+      "domain": "outbid.lol",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 9
+      },
+      "visits": "888.4K",
+      "growth": "888.4K",
+      "first_seen": "2026-08-19",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "canivibecodeit.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 23
+      },
+      "visits": "191.2K",
+      "growth": "189.6K",
+      "first_seen": "2026-07-29",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "genoffice.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 35
+      },
+      "visits": "98K",
+      "growth": "98K",
+      "first_seen": "2026-07-29",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "clipdance.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 53
+      },
+      "visits": "61.6K",
+      "growth": "61.6K",
+      "first_seen": "2026-08-11",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "is-agentic.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 72
+      },
+      "visits": "45.3K",
+      "growth": "45.3K",
+      "first_seen": "2026-08-19",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "pikpikgo.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 75
+      },
+      "visits": "40.6K",
+      "growth": "40.6K",
+      "first_seen": "2026-08-03",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "faymas.net",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 78
+      },
+      "visits": "39.8K",
+      "growth": "39.8K",
+      "first_seen": "2026-07-28",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "minimaxh3.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 140
+      },
+      "visits": "11.4K",
+      "growth": "11.4K",
+      "first_seen": "2026-07-30",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "onsolo.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 141
+      },
+      "visits": "11.3K",
+      "growth": "11.3K",
+      "first_seen": "2026-07-31",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "hicoo.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 11
+      },
+      "visits": "1M",
+      "growth": "795K",
+      "first_seen": "2026-01-06",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": "products/hicoo-ai.md",
+      "title": "Hicoo",
+      "summary": "AI 音视频格式转换桌面工具（转码/压缩/剪辑）",
+      "category": "工具"
+    },
+    {
+      "domain": "openmov.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 37
+      },
+      "visits": "352.4K",
+      "growth": "352.4K",
+      "first_seen": "2026-03-18",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": "products/openmov-ai.md",
+      "title": "OpenMov",
+      "summary": "聚合多模型的 AI 图像与视频生成工具站",
+      "category": "AI 视频"
+    },
+    {
+      "domain": "klipa.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 50
+      },
+      "visits": "219.2K",
+      "growth": "179.3K",
+      "first_seen": "2026-02-24",
+      "board_desc": "Turn your long videos into viral clips for TikTok, Reels and Shorts. Animated subtitles, silence removal, multi-format export. Free.",
+      "added": "2026-09-19",
+      "report": "products/klipa-ai.md",
+      "title": "Klipa AI",
+      "summary": "AI 自动把长视频切成竖屏短视频并配字幕",
+      "category": "AI 视频"
+    },
+    {
+      "domain": "raylight.app",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 56
+      },
+      "visits": "170.6K",
+      "growth": "145.3K",
+      "first_seen": "2026-05-15",
+      "board_desc": "Raylight turns your screenshots, shapes, and footage into cinematic product videos in minutes. No motion design skills required. Start free.",
+      "added": "2026-09-19",
+      "report": "products/raylight-app.md",
+      "title": "Raylight",
+      "summary": "浏览器里做电影级产品宣传视频",
+      "category": "视频工具"
+    },
+    {
+      "domain": "firevibe.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 57
+      },
+      "visits": "169.7K",
+      "growth": "158.1K",
+      "first_seen": "2026-03-12",
+      "board_desc": "App Store-ready screens, cohesive brand, and native code from a single prompt. In 3 minutes.",
+      "added": "2026-09-19",
+      "report": "products/firevibe-ai.md",
+      "title": "FireVibe",
+      "summary": "一句话生成移动 App 设计稿与原生代码",
+      "category": "AI 设计"
+    },
+    {
+      "domain": "flova.tv",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 58
+      },
+      "visits": "166.1K",
+      "growth": "127.5K",
+      "first_seen": "2026-03-18",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": "products/flova-tv.md",
+      "title": "Flova",
+      "summary": "AI 原生视频创作 Agent，一句话成片",
+      "category": "AI 视频"
+    },
+    {
+      "domain": "aispicy.app",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 69
+      },
+      "visits": "144.5K",
+      "growth": "133.2K",
+      "first_seen": "2026-06-26",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": "products/aispicy-app.md",
+      "title": "AI Spicy",
+      "summary": "上传照片生成成人向 AI 形象的图片工具",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "avatarhype.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 70
+      },
+      "visits": "141.6K",
+      "growth": "62.7K",
+      "first_seen": "2026-06-15",
+      "board_desc": "Learn the 6 AI-ad formats that sell best in ecommerce: UGC, podcast, voice-over, animated, image ads and trends. One-time payment, lifetime access.",
+      "added": "2026-09-19",
+      "report": "products/avatarhype-ai.md",
+      "title": "AvatarHype",
+      "summary": "面向电商卖家的 AI 广告制作视频课",
+      "category": "AI 营销"
+    },
+    {
+      "domain": "cartomind.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 71
+      },
+      "visits": "136.1K",
+      "growth": "91.4K",
+      "first_seen": "2026-04-05",
+      "board_desc": "Turn any idea into a professional infographic in seconds. CartoMind's free AI infographic generator handles layout, typography, and design. Try free!",
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "floorplanmaker.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 94
+      },
+      "visits": "92.5K",
+      "growth": "64.8K",
+      "first_seen": "2026-05-15",
+      "board_desc": null,
+      "added": "2026-09-19",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
     }
   ]
 }

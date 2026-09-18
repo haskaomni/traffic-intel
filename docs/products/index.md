@@ -4,12 +4,31 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-07** traffic 榜（new / trending），共收录 45 个产品，最近抓取：2026-09-18。
+跟踪榜单：**2026-08** traffic 榜（new / trending），共收录 64 个产品，最近抓取：2026-09-19。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| outbid.lol | — | new | #9 | 888.4K | 888.4K | 2026-08-19 | 调研中 |
+| canivibecodeit.com | — | new | #23 | 191.2K | 189.6K | 2026-07-29 | 调研中 |
+| genoffice.ai | — | new | #35 | 98K | 98K | 2026-07-29 | 调研中 |
+| clipdance.ai | — | new | #53 | 61.6K | 61.6K | 2026-08-11 | 调研中 |
+| is-agentic.com | — | new | #72 | 45.3K | 45.3K | 2026-08-19 | 调研中 |
+| pikpikgo.com | — | new | #75 | 40.6K | 40.6K | 2026-08-03 | 调研中 |
+| faymas.net | — | new | #78 | 39.8K | 39.8K | 2026-07-28 | 调研中 |
+| minimaxh3.ai | — | new | #140 | 11.4K | 11.4K | 2026-07-30 | 调研中 |
+| onsolo.ai | — | new | #141 | 11.3K | 11.3K | 2026-07-31 | 调研中 |
+| [Hicoo](./hicoo-ai) | AI 音视频格式转换桌面工具（转码/压缩/剪辑） | trending | #11 | 1M | 795K | 2026-01-06 | ✅ |
+| [OpenMov](./openmov-ai) | 聚合多模型的 AI 图像与视频生成工具站 | trending | #37 | 352.4K | 352.4K | 2026-03-18 | ✅ |
+| [Klipa AI](./klipa-ai) | AI 自动把长视频切成竖屏短视频并配字幕 | trending | #50 | 219.2K | 179.3K | 2026-02-24 | ✅ |
+| [Raylight](./raylight-app) | 浏览器里做电影级产品宣传视频 | trending | #56 | 170.6K | 145.3K | 2026-05-15 | ✅ |
+| [FireVibe](./firevibe-ai) | 一句话生成移动 App 设计稿与原生代码 | trending | #57 | 169.7K | 158.1K | 2026-03-12 | ✅ |
+| [Flova](./flova-tv) | AI 原生视频创作 Agent，一句话成片 | trending | #58 | 166.1K | 127.5K | 2026-03-18 | ✅ |
+| [AI Spicy](./aispicy-app) | 上传照片生成成人向 AI 形象的图片工具 | trending | #69 | 144.5K | 133.2K | 2026-06-26 | ✅ |
+| [AvatarHype](./avatarhype-ai) | 面向电商卖家的 AI 广告制作视频课 | trending | #70 | 141.6K | 62.7K | 2026-06-15 | ✅ |
+| cartomind.ai | Turn any idea into a professional infograp… | trending | #71 | 136.1K | 91.4K | 2026-04-05 | 调研中 |
+| floorplanmaker.ai | — | trending | #94 | 92.5K | 64.8K | 2026-05-15 | 调研中 |
 | [Angie](./getangie-com) | 异地恋情侣的实时双人游戏与约会中心 | new | #14 | 436.1K | 428.7K | 2026-06-27 | ✅ |
-| [Music Cup](./musiccup-app) | 为喜爱的歌手办一场歌曲世界杯 | new | #35 | 137.3K | 137.3K | 2026-07-22 | ✅ |
+| [Music Cup](./musiccup-app) | 为喜爱的歌手办一场歌曲世界杯 | new | #8 | 929K | 791.8K | 2026-07-22 | ✅ |
 | [Emojer](./emojer-org) | 免费在线 Emoji 翻译与复制工具站 | new | #45 | 57.1K | 57.1K | 2026-07-09 | ✅ |
 | [Vixal](./vixal-app) | 一句话生成爆款短视频的 AI 工具 | new | #47 | 55.3K | 55.3K | 2026-06-22 | ✅ |
 | [Instaplay](./instaplay-ai) | AI 一句话生成可分享的浏览器多人游戏 | new | #52 | 46.7K | 46.7K | 2026-06-30 | ✅ |
