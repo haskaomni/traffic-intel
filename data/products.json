@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "fetched": "2026-09-24",
+  "fetched": "2026-09-25",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -933,10 +933,10 @@
       "first_seen": "2026-07-28",
       "board_desc": null,
       "added": "2026-09-19",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/faymas-net.md",
+      "title": "Faymas",
+      "summary": "聚合主流模型的一站式 AI 图像与视频生成站",
+      "category": "AI 生成聚合"
     },
     {
       "domain": "minimaxh3.ai",
@@ -951,10 +951,10 @@
       "first_seen": "2026-07-30",
       "board_desc": null,
       "added": "2026-09-19",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/minimaxh3-ai.md",
+      "title": "MiniMax H3",
+      "summary": "套壳 MiniMax H3 模型的第三方 AI 视频生成站",
+      "category": "AI 视频"
     },
     {
       "domain": "onsolo.ai",
@@ -969,10 +969,10 @@
       "first_seen": "2026-07-31",
       "board_desc": null,
       "added": "2026-09-19",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/onsolo-ai.md",
+      "title": "OnSolo",
+      "summary": "腾讯「一人即剧组」的 AI 短剧创作平台",
+      "category": "AI 视频"
     },
     {
       "domain": "hicoo.ai",
