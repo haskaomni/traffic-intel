@@ -4,10 +4,21 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-08** traffic 榜（new / trending），共收录 64 个产品，最近抓取：2026-10-15。
+跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 75 个产品，最近抓取：2026-10-16。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Magnitudle](./magnitudle-com) | 每日视觉尺度估算游戏 | trending | #2 | 11.4M | 11.2M | 2026-03-02 | ✅ |
+| [ClothesChange](./clotheschange-ai) | 免费免登录的 AI 换装工具站 | trending | #46 | 312.6K | 266.4K | 2026-01-22 | ✅ |
+| [YoFont](./yofont-com) | 一句话生成多语言 AI 字体 | trending | #47 | 303.9K | 255.3K | 2025-06-25 | ✅ |
+| [Serenata](./serenatagift-com) | AI 定制歌曲礼物：把你们的故事写成歌 | trending | #52 | 287.1K | 226.3K | 2026-07-23 | ✅ |
+| [SpacePlanner](./spaceplanner-co) | 浏览器免注册的免费 2D/3D 户型与空间规划工具 | trending | #69 | 192K | 191.3K | 2026-06-14 | ✅ |
+| [Cola Skill](./colaskill-com) | 精选 AI Agent Skills 目录站 | trending | #78 | 134.6K | 109.9K | 2026-06-24 | ✅ |
+| [CareerPic AI](./careerpicai-com) | 一张自拍生成职业头像照 | trending | #85 | 113.3K | 92K | 2026-07-03 | ✅ |
+| [iMideo](./imideo-io) | 独立开发者的一站式 AI 视频生成平台 | trending | #88 | 108.9K | 80.7K | 2026-07-10 | ✅ |
+| snazo.app | — | trending | #90 | 105.9K | 96.8K | 2026-07-03 | 调研中 |
+| vidverses.ai | — | trending | #114 | 75K | 73.7K | 2026-06-30 | 调研中 |
+| vocaldock.com | Remove vocals from songs online with AI. U… | trending | #136 | 51.9K | 46.2K | 2026-05-18 | 调研中 |
 | [Outbid](./outbid-lol) | 出价即排名的公开产品榜单 | new | #9 | 888.4K | 888.4K | 2026-08-19 | ✅ |
 | [Can I Vibecode It?](./canivibecodeit-com) | 评测哪些 SaaS 能被 AI 编程一把梭替代 | new | #23 | 191.2K | 189.6K | 2026-07-29 | ✅ |
 | [GenOffice](./genoffice-ai) | Genspark 出品的开源 AI 办公套件 | new | #35 | 98K | 98K | 2026-07-29 | ✅ |
@@ -16,7 +27,7 @@ title: 产品总览
 | [PikpikGo](./pikpikgo-com) | 聚合主流大模型的一站式 AI 创作平台 | new | #75 | 40.6K | 40.6K | 2026-08-03 | ✅ |
 | [Faymas](./faymas-net) | 聚合主流模型的一站式 AI 图像与视频生成站 | new | #78 | 39.8K | 39.8K | 2026-07-28 | ✅ |
 | [MiniMax H3](./minimaxh3-ai) | 套壳 MiniMax H3 模型的第三方 AI 视频生成站 | new | #140 | 11.4K | 11.4K | 2026-07-30 | ✅ |
-| [OnSolo](./onsolo-ai) | 腾讯「一人即剧组」的 AI 短剧创作平台 | new | #141 | 11.3K | 11.3K | 2026-07-31 | ✅ |
+| [OnSolo](./onsolo-ai) | 腾讯「一人即剧组」的 AI 短剧创作平台 | new / trending | #141 / #100 | 92.5K | 81.1K | 2026-07-31 | ✅ |
 | [Hicoo](./hicoo-ai) | AI 音视频格式转换桌面工具（转码/压缩/剪辑） | trending | #11 | 1M | 795K | 2026-01-06 | ✅ |
 | [OpenMov](./openmov-ai) | 聚合多模型的 AI 图像与视频生成工具站 | trending | #37 | 352.4K | 352.4K | 2026-03-18 | ✅ |
 | [Klipa AI](./klipa-ai) | AI 自动把长视频切成竖屏短视频并配字幕 | trending | #50 | 219.2K | 179.3K | 2026-02-24 | ✅ |

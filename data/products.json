@@ -1,6 +1,6 @@
 {
-  "month": "2026-08",
-  "fetched": "2026-10-15",
+  "month": "2026-09",
+  "fetched": "2026-10-16",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -959,13 +959,15 @@
     {
       "domain": "onsolo.ai",
       "boards": [
-        "new"
+        "new",
+        "trending"
       ],
       "rank": {
-        "new": 141
+        "new": 141,
+        "trending": 100
       },
-      "visits": "11.3K",
-      "growth": "11.3K",
+      "visits": "92.5K",
+      "growth": "81.1K",
       "first_seen": "2026-07-31",
       "board_desc": null,
       "added": "2026-09-19",
@@ -1153,6 +1155,204 @@
       "title": "Floor Plan Maker",
       "summary": "AI 在线户型图生成与可视化工具",
       "category": "AI 设计"
+    },
+    {
+      "domain": "magnitudle.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 2
+      },
+      "visits": "11.4M",
+      "growth": "11.2M",
+      "first_seen": "2026-03-02",
+      "board_desc": "Play Magnitudle: Size It Up, a daily visual estimation game. Resize five objects against known references and score up to 500 points.",
+      "added": "2026-10-16",
+      "report": "products/magnitudle-com.md",
+      "title": "Magnitudle",
+      "summary": "每日视觉尺度估算游戏",
+      "category": "游戏"
+    },
+    {
+      "domain": "clotheschange.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 46
+      },
+      "visits": "312.6K",
+      "growth": "266.4K",
+      "first_seen": "2026-01-22",
+      "board_desc": null,
+      "added": "2026-10-16",
+      "report": "products/clotheschange-ai.md",
+      "title": "ClothesChange",
+      "summary": "免费免登录的 AI 换装工具站",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "yofont.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 47
+      },
+      "visits": "303.9K",
+      "growth": "255.3K",
+      "first_seen": "2025-06-25",
+      "board_desc": "Generate a unique web font and embed it with one @font-face snippet from the YoFont CDN — WOFF2/WOFF/TTF/OTF, up to 23 languages, self-hosting supported. First font free.",
+      "added": "2026-10-16",
+      "report": "products/yofont-com.md",
+      "title": "YoFont",
+      "summary": "一句话生成多语言 AI 字体",
+      "category": "AI 设计"
+    },
+    {
+      "domain": "serenatagift.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 52
+      },
+      "visits": "287.1K",
+      "growth": "226.3K",
+      "first_seen": "2026-07-23",
+      "board_desc": null,
+      "added": "2026-10-16",
+      "report": "products/serenatagift-com.md",
+      "title": "Serenata",
+      "summary": "AI 定制歌曲礼物：把你们的故事写成歌",
+      "category": "AI 音乐"
+    },
+    {
+      "domain": "spaceplanner.co",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 69
+      },
+      "visits": "192K",
+      "growth": "191.3K",
+      "first_seen": "2026-06-14",
+      "board_desc": null,
+      "added": "2026-10-16",
+      "report": "products/spaceplanner-co.md",
+      "title": "SpacePlanner",
+      "summary": "浏览器免注册的免费 2D/3D 户型与空间规划工具",
+      "category": "设计工具"
+    },
+    {
+      "domain": "colaskill.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 78
+      },
+      "visits": "134.6K",
+      "growth": "109.9K",
+      "first_seen": "2026-06-24",
+      "board_desc": "Curated skills for better ways to get things done.",
+      "added": "2026-10-16",
+      "report": "products/colaskill-com.md",
+      "title": "Cola Skill",
+      "summary": "精选 AI Agent Skills 目录站",
+      "category": "AI 工具"
+    },
+    {
+      "domain": "careerpicai.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 85
+      },
+      "visits": "113.3K",
+      "growth": "92K",
+      "first_seen": "2026-07-03",
+      "board_desc": null,
+      "added": "2026-10-16",
+      "report": "products/careerpicai-com.md",
+      "title": "CareerPic AI",
+      "summary": "一张自拍生成职业头像照",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "imideo.io",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 88
+      },
+      "visits": "108.9K",
+      "growth": "80.7K",
+      "first_seen": "2026-07-10",
+      "board_desc": "Learn how iMideo collects, uses, stores, and protects data for accounts, payments, uploads, AI generation workflows, analytics, and support.",
+      "added": "2026-10-16",
+      "report": "products/imideo-io.md",
+      "title": "iMideo",
+      "summary": "独立开发者的一站式 AI 视频生成平台",
+      "category": "AI 视频"
+    },
+    {
+      "domain": "snazo.app",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 90
+      },
+      "visits": "105.9K",
+      "growth": "96.8K",
+      "first_seen": "2026-07-03",
+      "board_desc": null,
+      "added": "2026-10-16",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "vidverses.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 114
+      },
+      "visits": "75K",
+      "growth": "73.7K",
+      "first_seen": "2026-06-30",
+      "board_desc": null,
+      "added": "2026-10-16",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "vocaldock.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 136
+      },
+      "visits": "51.9K",
+      "growth": "46.2K",
+      "first_seen": "2026-05-18",
+      "board_desc": "Remove vocals from songs online with AI. Use VocalDock as a vocal remover, voice remover, or vocal extractor and download vocals plus instrumental tracks.",
+      "added": "2026-10-16",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
     }
   ]
 }
