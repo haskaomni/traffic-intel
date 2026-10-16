@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "fetched": "2026-10-16",
+  "fetched": "2026-10-17",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -872,10 +872,10 @@
         "new"
       ],
       "rank": {
-        "new": 53
+        "new": 18
       },
-      "visits": "61.6K",
-      "growth": "61.6K",
+      "visits": "91.8K",
+      "growth": "30.2K",
       "first_seen": "2026-08-11",
       "board_desc": null,
       "added": "2026-09-19",
@@ -1313,10 +1313,10 @@
       "first_seen": "2026-07-03",
       "board_desc": null,
       "added": "2026-10-16",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/snazo-app.md",
+      "title": "Snazo",
+      "summary": "把长视频变成可发布的竖屏短视频",
+      "category": "AI 视频"
     },
     {
       "domain": "vidverses.ai",
@@ -1331,10 +1331,10 @@
       "first_seen": "2026-06-30",
       "board_desc": null,
       "added": "2026-10-16",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/vidverses-ai.md",
+      "title": "Vidverse AI",
+      "summary": "聚合多模型的 AI 视频、图像与音频创作平台",
+      "category": "AI 生成聚合"
     },
     {
       "domain": "vocaldock.com",
@@ -1342,13 +1342,265 @@
         "trending"
       ],
       "rank": {
-        "trending": 136
+        "trending": 134
       },
       "visits": "51.9K",
       "growth": "46.2K",
       "first_seen": "2026-05-18",
       "board_desc": "Remove vocals from songs online with AI. Use VocalDock as a vocal remover, voice remover, or vocal extractor and download vocals plus instrumental tracks.",
       "added": "2026-10-16",
+      "report": "products/vocaldock-com.md",
+      "title": "VocalDock",
+      "summary": "在线 AI 人声分离与音视频工具箱",
+      "category": "AI 音频"
+    },
+    {
+      "domain": "everygen.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 22
+      },
+      "visits": "84.2K",
+      "growth": "84.2K",
+      "first_seen": "2026-09-05",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": "products/everygen-ai.md",
+      "title": "Everygen",
+      "summary": "面向短视频与广告的多模型 AI 创作套件",
+      "category": "AI 视频"
+    },
+    {
+      "domain": "voicestudio.sh",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 23
+      },
+      "visits": "84.1K",
+      "growth": "79.9K",
+      "first_seen": "2026-08-06",
+      "board_desc": "VoiceStudio, formerly OmniVoice Studio, is an open-source desktop app for local voice cloning, dubbing, transcription, and text-to-speech. Its 646-language catalog varies by engine.",
+      "added": "2026-10-17",
+      "report": "products/voicestudio-sh.md",
+      "title": "VoiceStudio",
+      "summary": "本地运行的开源 AI 语音工作台",
+      "category": "AI 音频"
+    },
+    {
+      "domain": "deeparena.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 24
+      },
+      "visits": "80.6K",
+      "growth": "80.6K",
+      "first_seen": "2026-08-10",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": "products/deeparena-ai.md",
+      "title": "DeepArena",
+      "summary": "免费 AI 模型对比与投票评测平台",
+      "category": "AI 评测"
+    },
+    {
+      "domain": "fileo.me",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 27
+      },
+      "visits": "73.6K",
+      "growth": "73.6K",
+      "first_seen": "2026-09-20",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": "products/fileo-me.md",
+      "title": "Fileo Compress",
+      "summary": "图片压缩全程在浏览器本地完成",
+      "category": "工具"
+    },
+    {
+      "domain": "engki.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 32
+      },
+      "visits": "59.7K",
+      "growth": "59.7K",
+      "first_seen": "2026-09-19",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": "products/engki-app.md",
+      "title": "Engki",
+      "summary": "面向印尼用户的英语间隔重复卡片学习站",
+      "category": "教育工具"
+    },
+    {
+      "domain": "closeduo.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 37
+      },
+      "visits": "53.8K",
+      "growth": "53.8K",
+      "first_seen": "2026-09-11",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "imgico.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 65
+      },
+      "visits": "30.1K",
+      "growth": "28.8K",
+      "first_seen": "2026-08-19",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "deepkolor.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 68
+      },
+      "visits": "28.1K",
+      "growth": "23.6K",
+      "first_seen": "2026-08-14",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "vidrush-ai.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 82
+      },
+      "visits": "21.6K",
+      "growth": "13.1K",
+      "first_seen": "2026-08-02",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "vividsites.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 89
+      },
+      "visits": "20K",
+      "growth": "19.4K",
+      "first_seen": "2026-08-15",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "viducer.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 109
+      },
+      "visits": "14.6K",
+      "growth": "14.6K",
+      "first_seen": "2026-08-19",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "videm.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 110
+      },
+      "visits": "14.6K",
+      "growth": "14.6K",
+      "first_seen": "2026-09-02",
+      "board_desc": null,
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "freakyfonts.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 113
+      },
+      "visits": "13.4K",
+      "growth": "13.4K",
+      "first_seen": "2026-08-24",
+      "board_desc": "Generate stylish ◥꧁ད 𝚁𝚊𝚗𝚍𝚘𝚖 ཌ꧂◤ - Random Font Freaky Fonts for your instagram bio and profile name.",
+      "added": "2026-10-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "forge.art",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 123
+      },
+      "visits": "11.9K",
+      "growth": "11.9K",
+      "first_seen": "2026-09-02",
+      "board_desc": null,
+      "added": "2026-10-17",
       "report": null,
       "title": null,
       "summary": null,

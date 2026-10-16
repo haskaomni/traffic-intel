@@ -4,10 +4,24 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 75 个产品，最近抓取：2026-10-16。
+跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 89 个产品，最近抓取：2026-10-17。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Everygen](./everygen-ai) | 面向短视频与广告的多模型 AI 创作套件 | new | #22 | 84.2K | 84.2K | 2026-09-05 | ✅ |
+| [VoiceStudio](./voicestudio-sh) | 本地运行的开源 AI 语音工作台 | new | #23 | 84.1K | 79.9K | 2026-08-06 | ✅ |
+| [DeepArena](./deeparena-ai) | 免费 AI 模型对比与投票评测平台 | new | #24 | 80.6K | 80.6K | 2026-08-10 | ✅ |
+| [Fileo Compress](./fileo-me) | 图片压缩全程在浏览器本地完成 | new | #27 | 73.6K | 73.6K | 2026-09-20 | ✅ |
+| [Engki](./engki-app) | 面向印尼用户的英语间隔重复卡片学习站 | new | #32 | 59.7K | 59.7K | 2026-09-19 | ✅ |
+| closeduo.app | — | new | #37 | 53.8K | 53.8K | 2026-09-11 | 调研中 |
+| imgico.com | — | new | #65 | 30.1K | 28.8K | 2026-08-19 | 调研中 |
+| deepkolor.ai | — | new | #68 | 28.1K | 23.6K | 2026-08-14 | 调研中 |
+| vidrush-ai.com | — | new | #82 | 21.6K | 13.1K | 2026-08-02 | 调研中 |
+| vividsites.app | — | new | #89 | 20K | 19.4K | 2026-08-15 | 调研中 |
+| viducer.ai | — | new | #109 | 14.6K | 14.6K | 2026-08-19 | 调研中 |
+| videm.ai | — | new | #110 | 14.6K | 14.6K | 2026-09-02 | 调研中 |
+| freakyfonts.app | Generate stylish ◥꧁ད 𝚁𝚊𝚗𝚍𝚘𝚖 ཌ꧂◤ - Random F… | new | #113 | 13.4K | 13.4K | 2026-08-24 | 调研中 |
+| forge.art | — | new | #123 | 11.9K | 11.9K | 2026-09-02 | 调研中 |
 | [Magnitudle](./magnitudle-com) | 每日视觉尺度估算游戏 | trending | #2 | 11.4M | 11.2M | 2026-03-02 | ✅ |
 | [ClothesChange](./clotheschange-ai) | 免费免登录的 AI 换装工具站 | trending | #46 | 312.6K | 266.4K | 2026-01-22 | ✅ |
 | [YoFont](./yofont-com) | 一句话生成多语言 AI 字体 | trending | #47 | 303.9K | 255.3K | 2025-06-25 | ✅ |
@@ -16,13 +30,13 @@ title: 产品总览
 | [Cola Skill](./colaskill-com) | 精选 AI Agent Skills 目录站 | trending | #78 | 134.6K | 109.9K | 2026-06-24 | ✅ |
 | [CareerPic AI](./careerpicai-com) | 一张自拍生成职业头像照 | trending | #85 | 113.3K | 92K | 2026-07-03 | ✅ |
 | [iMideo](./imideo-io) | 独立开发者的一站式 AI 视频生成平台 | trending | #88 | 108.9K | 80.7K | 2026-07-10 | ✅ |
-| snazo.app | — | trending | #90 | 105.9K | 96.8K | 2026-07-03 | 调研中 |
-| vidverses.ai | — | trending | #114 | 75K | 73.7K | 2026-06-30 | 调研中 |
-| vocaldock.com | Remove vocals from songs online with AI. U… | trending | #136 | 51.9K | 46.2K | 2026-05-18 | 调研中 |
+| [Snazo](./snazo-app) | 把长视频变成可发布的竖屏短视频 | trending | #90 | 105.9K | 96.8K | 2026-07-03 | ✅ |
+| [Vidverse AI](./vidverses-ai) | 聚合多模型的 AI 视频、图像与音频创作平台 | trending | #114 | 75K | 73.7K | 2026-06-30 | ✅ |
+| [VocalDock](./vocaldock-com) | 在线 AI 人声分离与音视频工具箱 | trending | #134 | 51.9K | 46.2K | 2026-05-18 | ✅ |
 | [Outbid](./outbid-lol) | 出价即排名的公开产品榜单 | new | #9 | 888.4K | 888.4K | 2026-08-19 | ✅ |
 | [Can I Vibecode It?](./canivibecodeit-com) | 评测哪些 SaaS 能被 AI 编程一把梭替代 | new | #23 | 191.2K | 189.6K | 2026-07-29 | ✅ |
 | [GenOffice](./genoffice-ai) | Genspark 出品的开源 AI 办公套件 | new | #35 | 98K | 98K | 2026-07-29 | ✅ |
-| [ClipDance](./clipdance-ai) | 聚合多家大模型的 AI 视频生成平台 | new | #53 | 61.6K | 61.6K | 2026-08-11 | ✅ |
+| [ClipDance](./clipdance-ai) | 聚合多家大模型的 AI 视频生成平台 | new | #18 | 91.8K | 30.2K | 2026-08-11 | ✅ |
 | [Is Agentic](./is-agentic-com) | 网站 AI Agent 友好度打分工具 | new | #72 | 45.3K | 45.3K | 2026-08-19 | ✅ |
 | [PikpikGo](./pikpikgo-com) | 聚合主流大模型的一站式 AI 创作平台 | new | #75 | 40.6K | 40.6K | 2026-08-03 | ✅ |
 | [Faymas](./faymas-net) | 聚合主流模型的一站式 AI 图像与视频生成站 | new | #78 | 39.8K | 39.8K | 2026-07-28 | ✅ |
