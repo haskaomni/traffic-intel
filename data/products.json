@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "fetched": "2026-10-17",
+  "fetched": "2026-10-18",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -1457,10 +1457,10 @@
       "first_seen": "2026-09-11",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/closeduo-app.md",
+      "title": "CloseDuo",
+      "summary": "把折叠屏手机开合动画搬上 MacBook 的小工具",
+      "category": "工具"
     },
     {
       "domain": "imgico.com",
@@ -1475,10 +1475,10 @@
       "first_seen": "2026-08-19",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/imgico-com.md",
+      "title": "imgico",
+      "summary": "免费图片前后对比滑块工具",
+      "category": "工具"
     },
     {
       "domain": "deepkolor.ai",
@@ -1493,10 +1493,10 @@
       "first_seen": "2026-08-14",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/deepkolor-ai.md",
+      "title": "DeepKolor",
+      "summary": "对话式 AI 电商视觉设计智能体",
+      "category": "AI 图像"
     },
     {
       "domain": "vidrush-ai.com",
@@ -1511,10 +1511,10 @@
       "first_seen": "2026-08-02",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/vidrush-ai-com.md",
+      "title": "VidRush AI",
+      "summary": "聚合多家大模型的 AI 视频生成工具站",
+      "category": "AI 视频"
     },
     {
       "domain": "vividsites.app",
@@ -1529,10 +1529,10 @@
       "first_seen": "2026-08-15",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/vividsites-app.md",
+      "title": "Vividsites",
+      "summary": "一句话生成电影感 3D 网站的 AI 工作室",
+      "category": "AI 建站"
     },
     {
       "domain": "viducer.ai",
@@ -1547,10 +1547,10 @@
       "first_seen": "2026-08-19",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/viducer-ai.md",
+      "title": "Viducer",
+      "summary": "AI 一键生成 YouTube 长视频（最长 60 分钟）",
+      "category": "AI 视频"
     },
     {
       "domain": "videm.ai",
@@ -1565,10 +1565,10 @@
       "first_seen": "2026-09-02",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/videm-ai.md",
+      "title": "Videm Ai",
+      "summary": "免注册、无水印的 AI 图像/视频生成器",
+      "category": "AI 图像"
     },
     {
       "domain": "freakyfonts.app",
@@ -1583,10 +1583,10 @@
       "first_seen": "2026-08-24",
       "board_desc": "Generate stylish ◥꧁ད 𝚁𝚊𝚗𝚍𝚘𝚖 ཌ꧂◤ - Random Font Freaky Fonts for your instagram bio and profile name.",
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/freakyfonts-app.md",
+      "title": "Freaky Fonts",
+      "summary": "免费 Unicode 花式字体生成器",
+      "category": "工具"
     },
     {
       "domain": "forge.art",

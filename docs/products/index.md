@@ -4,7 +4,7 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 89 个产品，最近抓取：2026-10-17。
+跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 89 个产品，最近抓取：2026-10-18。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -13,14 +13,14 @@ title: 产品总览
 | [DeepArena](./deeparena-ai) | 免费 AI 模型对比与投票评测平台 | new | #24 | 80.6K | 80.6K | 2026-08-10 | ✅ |
 | [Fileo Compress](./fileo-me) | 图片压缩全程在浏览器本地完成 | new | #27 | 73.6K | 73.6K | 2026-09-20 | ✅ |
 | [Engki](./engki-app) | 面向印尼用户的英语间隔重复卡片学习站 | new | #32 | 59.7K | 59.7K | 2026-09-19 | ✅ |
-| closeduo.app | — | new | #37 | 53.8K | 53.8K | 2026-09-11 | 调研中 |
-| imgico.com | — | new | #65 | 30.1K | 28.8K | 2026-08-19 | 调研中 |
-| deepkolor.ai | — | new | #68 | 28.1K | 23.6K | 2026-08-14 | 调研中 |
-| vidrush-ai.com | — | new | #82 | 21.6K | 13.1K | 2026-08-02 | 调研中 |
-| vividsites.app | — | new | #89 | 20K | 19.4K | 2026-08-15 | 调研中 |
-| viducer.ai | — | new | #109 | 14.6K | 14.6K | 2026-08-19 | 调研中 |
-| videm.ai | — | new | #110 | 14.6K | 14.6K | 2026-09-02 | 调研中 |
-| freakyfonts.app | Generate stylish ◥꧁ད 𝚁𝚊𝚗𝚍𝚘𝚖 ཌ꧂◤ - Random F… | new | #113 | 13.4K | 13.4K | 2026-08-24 | 调研中 |
+| [CloseDuo](./closeduo-app) | 把折叠屏手机开合动画搬上 MacBook 的小工具 | new | #37 | 53.8K | 53.8K | 2026-09-11 | ✅ |
+| [imgico](./imgico-com) | 免费图片前后对比滑块工具 | new | #65 | 30.1K | 28.8K | 2026-08-19 | ✅ |
+| [DeepKolor](./deepkolor-ai) | 对话式 AI 电商视觉设计智能体 | new | #68 | 28.1K | 23.6K | 2026-08-14 | ✅ |
+| [VidRush AI](./vidrush-ai-com) | 聚合多家大模型的 AI 视频生成工具站 | new | #82 | 21.6K | 13.1K | 2026-08-02 | ✅ |
+| [Vividsites](./vividsites-app) | 一句话生成电影感 3D 网站的 AI 工作室 | new | #89 | 20K | 19.4K | 2026-08-15 | ✅ |
+| [Viducer](./viducer-ai) | AI 一键生成 YouTube 长视频（最长 60 分钟） | new | #109 | 14.6K | 14.6K | 2026-08-19 | ✅ |
+| [Videm Ai](./videm-ai) | 免注册、无水印的 AI 图像/视频生成器 | new | #110 | 14.6K | 14.6K | 2026-09-02 | ✅ |
+| [Freaky Fonts](./freakyfonts-app) | 免费 Unicode 花式字体生成器 | new | #113 | 13.4K | 13.4K | 2026-08-24 | ✅ |
 | forge.art | — | new | #123 | 11.9K | 11.9K | 2026-09-02 | 调研中 |
 | [Magnitudle](./magnitudle-com) | 每日视觉尺度估算游戏 | trending | #2 | 11.4M | 11.2M | 2026-03-02 | ✅ |
 | [ClothesChange](./clotheschange-ai) | 免费免登录的 AI 换装工具站 | trending | #46 | 312.6K | 266.4K | 2026-01-22 | ✅ |
