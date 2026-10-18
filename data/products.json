@@ -1,6 +1,6 @@
 {
   "month": "2026-09",
-  "fetched": "2026-10-18",
+  "fetched": "2026-10-19",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -1601,10 +1601,10 @@
       "first_seen": "2026-09-02",
       "board_desc": null,
       "added": "2026-10-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/forge-art.md",
+      "title": "Forge",
+      "summary": "对话式 AI 无限画布与营销视频生成工具",
+      "category": "AI 内容创作"
     }
   ]
 }

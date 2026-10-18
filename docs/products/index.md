@@ -4,7 +4,7 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 89 个产品，最近抓取：2026-10-18。
+跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 89 个产品，最近抓取：2026-10-19。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ title: 产品总览
 | [Viducer](./viducer-ai) | AI 一键生成 YouTube 长视频（最长 60 分钟） | new | #109 | 14.6K | 14.6K | 2026-08-19 | ✅ |
 | [Videm Ai](./videm-ai) | 免注册、无水印的 AI 图像/视频生成器 | new | #110 | 14.6K | 14.6K | 2026-09-02 | ✅ |
 | [Freaky Fonts](./freakyfonts-app) | 免费 Unicode 花式字体生成器 | new | #113 | 13.4K | 13.4K | 2026-08-24 | ✅ |
-| forge.art | — | new | #123 | 11.9K | 11.9K | 2026-09-02 | 调研中 |
+| [Forge](./forge-art) | 对话式 AI 无限画布与营销视频生成工具 | new | #123 | 11.9K | 11.9K | 2026-09-02 | ✅ |
 | [Magnitudle](./magnitudle-com) | 每日视觉尺度估算游戏 | trending | #2 | 11.4M | 11.2M | 2026-03-02 | ✅ |
 | [ClothesChange](./clotheschange-ai) | 免费免登录的 AI 换装工具站 | trending | #46 | 312.6K | 266.4K | 2026-01-22 | ✅ |
 | [YoFont](./yofont-com) | 一句话生成多语言 AI 字体 | trending | #47 | 303.9K | 255.3K | 2025-06-25 | ✅ |
