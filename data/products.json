@@ -1,6 +1,6 @@
 {
-  "month": "2026-09",
-  "fetched": "2026-11-16",
+  "month": "2026-10",
+  "fetched": "2026-11-17",
   "products": [
     {
       "domain": "ezmaker.ai",
@@ -656,12 +656,12 @@
         "trending"
       ],
       "rank": {
-        "trending": 49
+        "trending": 25
       },
-      "visits": "164.2K",
-      "growth": "134.6K",
+      "visits": "796.8K",
+      "growth": "381.9K",
       "first_seen": "2026-04-17",
-      "board_desc": "Capafy AI is an AI agent store for Claude Code, Codex, Hermes, and OpenClaw Skills. Discover expert Skills, run them online, or upload your own to make money.",
+      "board_desc": "Capafy AI is an AI agent store for Claude Agent, Codex, Hermes & OpenClaw Skills. Discover expert Skills, run them online, or sell your own to earn.",
       "added": "2026-08-17",
       "report": "products/capafy-ai.md",
       "title": "Capafy",
@@ -1234,12 +1234,12 @@
         "trending"
       ],
       "rank": {
-        "trending": 69
+        "trending": 37
       },
-      "visits": "192K",
-      "growth": "191.3K",
+      "visits": "492.7K",
+      "growth": "300.7K",
       "first_seen": "2026-06-14",
-      "board_desc": null,
+      "board_desc": "SpacePlanner is a free online space planner for drawing floor plans and layouts in your browser. No signup, no download — start planning in seconds.",
       "added": "2026-10-16",
       "report": "products/spaceplanner-co.md",
       "title": "SpacePlanner",
@@ -1324,10 +1324,10 @@
         "trending"
       ],
       "rank": {
-        "trending": 114
+        "trending": 70
       },
-      "visits": "75K",
-      "growth": "73.7K",
+      "visits": "191.9K",
+      "growth": "116.9K",
       "first_seen": "2026-06-30",
       "board_desc": null,
       "added": "2026-10-16",
@@ -1414,10 +1414,10 @@
         "new"
       ],
       "rank": {
-        "new": 27
+        "new": 10
       },
-      "visits": "73.6K",
-      "growth": "73.6K",
+      "visits": "715.2K",
+      "growth": "641.6K",
       "first_seen": "2026-09-20",
       "board_desc": null,
       "added": "2026-10-17",
@@ -1605,6 +1605,330 @@
       "title": "Forge",
       "summary": "对话式 AI 无限画布与营销视频生成工具",
       "category": "AI 内容创作"
+    },
+    {
+      "domain": "cleanyour.tv",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 5
+      },
+      "visits": "1.2M",
+      "growth": "1.2M",
+      "first_seen": "2026-10-19",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "chuttamalleai.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 31
+      },
+      "visits": "124.9K",
+      "growth": "124.9K",
+      "first_seen": "2026-10-03",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "indilingo.ai",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 52
+      },
+      "visits": "57.5K",
+      "growth": "57.5K",
+      "first_seen": "2026-09-29",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "useveyra.co",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 55
+      },
+      "visits": "53.9K",
+      "growth": "53.9K",
+      "first_seen": "2026-09-18",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "maketag.app",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 57
+      },
+      "visits": "51.6K",
+      "growth": "51.6K",
+      "first_seen": "2026-10-05",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "okai.uz",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 60
+      },
+      "visits": "46.5K",
+      "growth": "46.5K",
+      "first_seen": "2026-10-13",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "migosai.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 63
+      },
+      "visits": "41.8K",
+      "growth": "41.8K",
+      "first_seen": "2026-09-28",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "guitoro.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 65
+      },
+      "visits": "38.2K",
+      "growth": "38.2K",
+      "first_seen": "2026-09-30",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "tikhaze.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 66
+      },
+      "visits": "35.2K",
+      "growth": "35.2K",
+      "first_seen": "2026-10-02",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "quietpomodoro.com",
+      "boards": [
+        "new"
+      ],
+      "rank": {
+        "new": 67
+      },
+      "visits": "33.4K",
+      "growth": "33.4K",
+      "first_seen": "2026-10-02",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": null,
+      "title": null,
+      "summary": null,
+      "category": null
+    },
+    {
+      "domain": "removeailabel.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 18
+      },
+      "visits": "934.8K",
+      "growth": "474.8K",
+      "first_seen": "2026-03-08",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": "products/removeailabel-com.md",
+      "title": "Remove AI Label",
+      "summary": "浏览器本地清除图片 AI 元数据",
+      "category": "图片工具"
+    },
+    {
+      "domain": "skillry.dev",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 33
+      },
+      "visits": "535.8K",
+      "growth": "507K",
+      "first_seen": "2026-08-26",
+      "board_desc": "Skillry is a curated library of Agent Skills for Claude Code, Codex and Cursor. Install reusable SKILL.md workflows for slides, web pages, images and video.",
+      "added": "2026-11-17",
+      "report": "products/skillry-dev.md",
+      "title": "Skillry",
+      "summary": "精选 Agent Skills 工作流库",
+      "category": "AI 工具"
+    },
+    {
+      "domain": "audioforges.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 56
+      },
+      "visits": "289.7K",
+      "growth": "258.8K",
+      "first_seen": "2026-07-20",
+      "board_desc": "Convert audio to MIDI online. Preview and edit the notes in the browser, then download the .mid file. Free to start, pay per song for higher accuracy.",
+      "added": "2026-11-17",
+      "report": "products/audioforges-com.md",
+      "title": "AudioForges",
+      "summary": "面向音乐人的 AI 音频拆解工具箱",
+      "category": "AI 音频"
+    },
+    {
+      "domain": "ipipneo.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 66
+      },
+      "visits": "211.3K",
+      "growth": "195.7K",
+      "first_seen": "2026-07-11",
+      "board_desc": "Warunki zakupu pełnego dostępu do Twojego wyniku IPIP-NEO: co otwiera płatność, cena, sposób wydania, jak długo pozostaje dostępny, zwroty i dane sprzedawcy.",
+      "added": "2026-11-17",
+      "report": "products/ipipneo-com.md",
+      "title": "IPIP-NEO",
+      "summary": "免费大五人格测试与 30 面向分析",
+      "category": "心理测试"
+    },
+    {
+      "domain": "tiposletra.com",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 76
+      },
+      "visits": "172.9K",
+      "growth": "160.9K",
+      "first_seen": "2026-04-15",
+      "board_desc": "Tipos de letras puede transformar cualquier texto normal en letras bonitas, cursivas, negritas, aesthetic o con estilo que puedes copiar y pegar fácilmente en segundos.",
+      "added": "2026-11-17",
+      "report": "products/tiposletra-com.md",
+      "title": "Tipos de Letras",
+      "summary": "西语花式字体生成与复制工具",
+      "category": "工具"
+    },
+    {
+      "domain": "withamplify.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 81
+      },
+      "visits": "166.8K",
+      "growth": "158.2K",
+      "first_seen": "2026-07-15",
+      "board_desc": null,
+      "added": "2026-11-17",
+      "report": "products/withamplify-ai.md",
+      "title": "Amplify AI",
+      "summary": "品牌短视频生成与社媒分发平台",
+      "category": "AI 营销"
+    },
+    {
+      "domain": "fastimg.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 95
+      },
+      "visits": "128.5K",
+      "growth": "107.4K",
+      "first_seen": "2026-06-24",
+      "board_desc": "Edit images with prompts in FastImg. Free forever with unlimited edits, no signup, and no watermark. Undo any step and export PNGs.",
+      "added": "2026-11-17",
+      "report": "products/fastimg-ai.md",
+      "title": "FastImg",
+      "summary": "免费免注册的连续 AI 图片编辑器",
+      "category": "AI 图像"
+    },
+    {
+      "domain": "screenweaver.ai",
+      "boards": [
+        "trending"
+      ],
+      "rank": {
+        "trending": 121
+      },
+      "visits": "81.7K",
+      "growth": "63.4K",
+      "first_seen": "2026-01-27",
+      "board_desc": "How ScreenWeaver collects, uses, and protects your personal data.",
+      "added": "2026-11-17",
+      "report": "products/screenweaver-ai.md",
+      "title": "ScreenWeaver",
+      "summary": "剧本到 AI 影片的一体化工作台",
+      "category": "AI 视频"
     }
   ]
 }

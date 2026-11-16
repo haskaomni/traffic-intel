@@ -4,14 +4,32 @@ title: 产品总览
 
 # 产品总览
 
-跟踪榜单：**2026-09** traffic 榜（new / trending），共收录 89 个产品，最近抓取：2026-11-16。
+跟踪榜单：**2026-10** traffic 榜（new / trending），共收录 107 个产品，最近抓取：2026-11-17。
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| cleanyour.tv | — | new | #5 | 1.2M | 1.2M | 2026-10-19 | 调研中 |
+| chuttamalleai.com | — | new | #31 | 124.9K | 124.9K | 2026-10-03 | 调研中 |
+| indilingo.ai | — | new | #52 | 57.5K | 57.5K | 2026-09-29 | 调研中 |
+| useveyra.co | — | new | #55 | 53.9K | 53.9K | 2026-09-18 | 调研中 |
+| maketag.app | — | new | #57 | 51.6K | 51.6K | 2026-10-05 | 调研中 |
+| okai.uz | — | new | #60 | 46.5K | 46.5K | 2026-10-13 | 调研中 |
+| migosai.com | — | new | #63 | 41.8K | 41.8K | 2026-09-28 | 调研中 |
+| guitoro.com | — | new | #65 | 38.2K | 38.2K | 2026-09-30 | 调研中 |
+| tikhaze.com | — | new | #66 | 35.2K | 35.2K | 2026-10-02 | 调研中 |
+| quietpomodoro.com | — | new | #67 | 33.4K | 33.4K | 2026-10-02 | 调研中 |
+| [Remove AI Label](./removeailabel-com) | 浏览器本地清除图片 AI 元数据 | trending | #18 | 934.8K | 474.8K | 2026-03-08 | ✅ |
+| [Skillry](./skillry-dev) | 精选 Agent Skills 工作流库 | trending | #33 | 535.8K | 507K | 2026-08-26 | ✅ |
+| [AudioForges](./audioforges-com) | 面向音乐人的 AI 音频拆解工具箱 | trending | #56 | 289.7K | 258.8K | 2026-07-20 | ✅ |
+| [IPIP-NEO](./ipipneo-com) | 免费大五人格测试与 30 面向分析 | trending | #66 | 211.3K | 195.7K | 2026-07-11 | ✅ |
+| [Tipos de Letras](./tiposletra-com) | 西语花式字体生成与复制工具 | trending | #76 | 172.9K | 160.9K | 2026-04-15 | ✅ |
+| [Amplify AI](./withamplify-ai) | 品牌短视频生成与社媒分发平台 | trending | #81 | 166.8K | 158.2K | 2026-07-15 | ✅ |
+| [FastImg](./fastimg-ai) | 免费免注册的连续 AI 图片编辑器 | trending | #95 | 128.5K | 107.4K | 2026-06-24 | ✅ |
+| [ScreenWeaver](./screenweaver-ai) | 剧本到 AI 影片的一体化工作台 | trending | #121 | 81.7K | 63.4K | 2026-01-27 | ✅ |
 | [Everygen](./everygen-ai) | 面向短视频与广告的多模型 AI 创作套件 | new | #22 | 84.2K | 84.2K | 2026-09-05 | ✅ |
 | [VoiceStudio](./voicestudio-sh) | 本地运行的开源 AI 语音工作台 | new | #23 | 84.1K | 79.9K | 2026-08-06 | ✅ |
 | [DeepArena](./deeparena-ai) | 免费 AI 模型对比与投票评测平台 | new | #24 | 80.6K | 80.6K | 2026-08-10 | ✅ |
-| [Fileo Compress](./fileo-me) | 图片压缩全程在浏览器本地完成 | new | #27 | 73.6K | 73.6K | 2026-09-20 | ✅ |
+| [Fileo Compress](./fileo-me) | 图片压缩全程在浏览器本地完成 | new | #10 | 715.2K | 641.6K | 2026-09-20 | ✅ |
 | [Engki](./engki-app) | 面向印尼用户的英语间隔重复卡片学习站 | new | #32 | 59.7K | 59.7K | 2026-09-19 | ✅ |
 | [CloseDuo](./closeduo-app) | 把折叠屏手机开合动画搬上 MacBook 的小工具 | new | #37 | 53.8K | 53.8K | 2026-09-11 | ✅ |
 | [imgico](./imgico-com) | 免费图片前后对比滑块工具 | new | #65 | 30.1K | 28.8K | 2026-08-19 | ✅ |
@@ -26,12 +44,12 @@ title: 产品总览
 | [ClothesChange](./clotheschange-ai) | 免费免登录的 AI 换装工具站 | trending | #46 | 312.6K | 266.4K | 2026-01-22 | ✅ |
 | [YoFont](./yofont-com) | 一句话生成多语言 AI 字体 | trending | #47 | 303.9K | 255.3K | 2025-06-25 | ✅ |
 | [Serenata](./serenatagift-com) | AI 定制歌曲礼物：把你们的故事写成歌 | trending | #52 | 287.1K | 226.3K | 2026-07-23 | ✅ |
-| [SpacePlanner](./spaceplanner-co) | 浏览器免注册的免费 2D/3D 户型与空间规划工具 | trending | #69 | 192K | 191.3K | 2026-06-14 | ✅ |
+| [SpacePlanner](./spaceplanner-co) | 浏览器免注册的免费 2D/3D 户型与空间规划工具 | trending | #37 | 492.7K | 300.7K | 2026-06-14 | ✅ |
 | [Cola Skill](./colaskill-com) | 精选 AI Agent Skills 目录站 | trending | #78 | 134.6K | 109.9K | 2026-06-24 | ✅ |
 | [CareerPic AI](./careerpicai-com) | 一张自拍生成职业头像照 | trending | #85 | 113.3K | 92K | 2026-07-03 | ✅ |
 | [iMideo](./imideo-io) | 独立开发者的一站式 AI 视频生成平台 | trending | #88 | 108.9K | 80.7K | 2026-07-10 | ✅ |
 | [Snazo](./snazo-app) | 把长视频变成可发布的竖屏短视频 | trending | #90 | 105.9K | 96.8K | 2026-07-03 | ✅ |
-| [Vidverse AI](./vidverses-ai) | 聚合多模型的 AI 视频、图像与音频创作平台 | trending | #114 | 75K | 73.7K | 2026-06-30 | ✅ |
+| [Vidverse AI](./vidverses-ai) | 聚合多模型的 AI 视频、图像与音频创作平台 | trending | #70 | 191.9K | 116.9K | 2026-06-30 | ✅ |
 | [VocalDock](./vocaldock-com) | 在线 AI 人声分离与音视频工具箱 | trending | #134 | 51.9K | 46.2K | 2026-05-18 | ✅ |
 | [Outbid](./outbid-lol) | 出价即排名的公开产品榜单 | new | #9 | 888.4K | 888.4K | 2026-08-19 | ✅ |
 | [Can I Vibecode It?](./canivibecodeit-com) | 评测哪些 SaaS 能被 AI 编程一把梭替代 | new | #23 | 191.2K | 189.6K | 2026-07-29 | ✅ |
@@ -64,7 +82,7 @@ title: 产品总览
 | [Cliptica](./cliptica-com) | AI 长视频切片工具，一键成片并管理 clipper 计酬台账 | new | #114 | 14.8K | 14.8K | 2026-07-08 | ✅ |
 | [Polaris](./polarisugc-com) | 面向电商的 AI UGC 广告视频生成工具 | new | #135 | 10.3K | 10.3K | 2026-07-10 | ✅ |
 | [ImageFree](./imagefree-net) | 免注册、无限制的免费 AI 文生图工具 | trending | #10 | 1M | 925.4K | 2026-03-12 | ✅ |
-| [Capafy](./capafy-ai) | AI Skill 交易市场，创作者可变现 | trending | #49 | 164.2K | 134.6K | 2026-04-17 | ✅ |
+| [Capafy](./capafy-ai) | AI Skill 交易市场，创作者可变现 | trending | #25 | 796.8K | 381.9K | 2026-04-17 | ✅ |
 | [Grid Maker](./thegridmaker-com) | 免费在线绘画网格生成工具 | trending | #54 | 146.1K | 123.3K | 2026-03-27 | ✅ |
 | [Starting 5](./starting5-app) | 每日 NBA 历史首发阵容竞猜游戏 | trending | #56 | 141.6K | 122K | 2026-05-16 | ✅ |
 | [FontVibe](./fontvibe-ai) | 免费的 AI 文字特效生成器 | trending | #69 | 107.6K | 71.9K | 2026-03-29 | ✅ |
