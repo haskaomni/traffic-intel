@@ -1619,10 +1619,10 @@
       "first_seen": "2026-10-19",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/cleanyour-tv.md",
+      "title": "CleanYourTV",
+      "summary": "免 Root 的安卓电视去广告工具",
+      "category": "系统工具"
     },
     {
       "domain": "chuttamalleai.com",
@@ -1637,10 +1637,10 @@
       "first_seen": "2026-10-03",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/chuttamalleai-com.md",
+      "title": "Chuttamalle AI",
+      "summary": "强调授权与审查的 AI 换脸视频工具",
+      "category": "AI 视频"
     },
     {
       "domain": "indilingo.ai",
@@ -1655,10 +1655,10 @@
       "first_seen": "2026-09-29",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/indilingo-ai.md",
+      "title": "Indilingo",
+      "summary": "用母语学任意语言的 AI 口语教练",
+      "category": "教育工具"
     },
     {
       "domain": "useveyra.co",
@@ -1673,10 +1673,10 @@
       "first_seen": "2026-09-18",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/useveyra-co.md",
+      "title": "Veyra",
+      "summary": "把 YouTube 视频变成母语双语字幕",
+      "category": "AI 翻译"
     },
     {
       "domain": "maketag.app",
@@ -1691,10 +1691,10 @@
       "first_seen": "2026-10-05",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/maketag-app.md",
+      "title": "MakeTag",
+      "summary": "快速创建自定义 Discord 标签",
+      "category": "社交工具"
     },
     {
       "domain": "okai.uz",
@@ -1709,10 +1709,10 @@
       "first_seen": "2026-10-13",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/okai-uz.md",
+      "title": "OKAI.UZ",
+      "summary": "乌兹别克本地化多模型 AI 创作站",
+      "category": "AI 生成聚合"
     },
     {
       "domain": "migosai.com",
@@ -1727,10 +1727,10 @@
       "first_seen": "2026-09-28",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/migosai-com.md",
+      "title": "Migos AI",
+      "summary": "两张照片生成双人 AI 说唱视频",
+      "category": "AI 视频"
     },
     {
       "domain": "guitoro.com",
@@ -1745,10 +1745,10 @@
       "first_seen": "2026-09-30",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/guitoro-com.md",
+      "title": "Guitoro",
+      "summary": "可用键盘扫弦的免费浏览器吉他",
+      "category": "音乐工具"
     },
     {
       "domain": "tikhaze.com",

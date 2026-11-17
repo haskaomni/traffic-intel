@@ -8,14 +8,14 @@ title: 产品总览
 
 | 产品 | 简介 | 榜单 | 排名 | 月访问量 | 月增长 | 首次发现 | 报告 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| cleanyour.tv | — | new | #5 | 1.2M | 1.2M | 2026-10-19 | 调研中 |
-| chuttamalleai.com | — | new | #31 | 124.9K | 124.9K | 2026-10-03 | 调研中 |
-| indilingo.ai | — | new | #52 | 57.5K | 57.5K | 2026-09-29 | 调研中 |
-| useveyra.co | — | new | #55 | 53.9K | 53.9K | 2026-09-18 | 调研中 |
-| maketag.app | — | new | #57 | 51.6K | 51.6K | 2026-10-05 | 调研中 |
-| okai.uz | — | new | #60 | 46.5K | 46.5K | 2026-10-13 | 调研中 |
-| migosai.com | — | new | #63 | 41.8K | 41.8K | 2026-09-28 | 调研中 |
-| guitoro.com | — | new | #65 | 38.2K | 38.2K | 2026-09-30 | 调研中 |
+| [CleanYourTV](./cleanyour-tv) | 免 Root 的安卓电视去广告工具 | new | #5 | 1.2M | 1.2M | 2026-10-19 | ✅ |
+| [Chuttamalle AI](./chuttamalleai-com) | 强调授权与审查的 AI 换脸视频工具 | new | #31 | 124.9K | 124.9K | 2026-10-03 | ✅ |
+| [Indilingo](./indilingo-ai) | 用母语学任意语言的 AI 口语教练 | new | #52 | 57.5K | 57.5K | 2026-09-29 | ✅ |
+| [Veyra](./useveyra-co) | 把 YouTube 视频变成母语双语字幕 | new | #55 | 53.9K | 53.9K | 2026-09-18 | ✅ |
+| [MakeTag](./maketag-app) | 快速创建自定义 Discord 标签 | new | #57 | 51.6K | 51.6K | 2026-10-05 | ✅ |
+| [OKAI.UZ](./okai-uz) | 乌兹别克本地化多模型 AI 创作站 | new | #60 | 46.5K | 46.5K | 2026-10-13 | ✅ |
+| [Migos AI](./migosai-com) | 两张照片生成双人 AI 说唱视频 | new | #63 | 41.8K | 41.8K | 2026-09-28 | ✅ |
+| [Guitoro](./guitoro-com) | 可用键盘扫弦的免费浏览器吉他 | new | #65 | 38.2K | 38.2K | 2026-09-30 | ✅ |
 | tikhaze.com | — | new | #66 | 35.2K | 35.2K | 2026-10-02 | 调研中 |
 | quietpomodoro.com | — | new | #67 | 33.4K | 33.4K | 2026-10-02 | 调研中 |
 | [Remove AI Label](./removeailabel-com) | 浏览器本地清除图片 AI 元数据 | trending | #18 | 934.8K | 474.8K | 2026-03-08 | ✅ |
