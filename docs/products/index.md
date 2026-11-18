@@ -16,8 +16,8 @@ title: 产品总览
 | [OKAI.UZ](./okai-uz) | 乌兹别克本地化多模型 AI 创作站 | new | #60 | 46.5K | 46.5K | 2026-10-13 | ✅ |
 | [Migos AI](./migosai-com) | 两张照片生成双人 AI 说唱视频 | new | #63 | 41.8K | 41.8K | 2026-09-28 | ✅ |
 | [Guitoro](./guitoro-com) | 可用键盘扫弦的免费浏览器吉他 | new | #65 | 38.2K | 38.2K | 2026-09-30 | ✅ |
-| tikhaze.com | — | new | #66 | 35.2K | 35.2K | 2026-10-02 | 调研中 |
-| quietpomodoro.com | — | new | #67 | 33.4K | 33.4K | 2026-10-02 | 调研中 |
+| [Haze Method](./tikhaze-com) | TikTok 画质优化与检测工具 | new | #66 | 35.2K | 35.2K | 2026-10-02 | ✅ |
+| [Quiet Pomodoro](./quietpomodoro-com) | 免账号的极简番茄钟与专注应用 | new | #67 | 33.4K | 33.4K | 2026-10-02 | ✅ |
 | [Remove AI Label](./removeailabel-com) | 浏览器本地清除图片 AI 元数据 | trending | #18 | 934.8K | 474.8K | 2026-03-08 | ✅ |
 | [Skillry](./skillry-dev) | 精选 Agent Skills 工作流库 | trending | #33 | 535.8K | 507K | 2026-08-26 | ✅ |
 | [AudioForges](./audioforges-com) | 面向音乐人的 AI 音频拆解工具箱 | trending | #56 | 289.7K | 258.8K | 2026-07-20 | ✅ |

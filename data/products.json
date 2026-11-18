@@ -1763,10 +1763,10 @@
       "first_seen": "2026-10-02",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/tikhaze-com.md",
+      "title": "Haze Method",
+      "summary": "TikTok 画质优化与检测工具",
+      "category": "视频工具"
     },
     {
       "domain": "quietpomodoro.com",
@@ -1781,10 +1781,10 @@
       "first_seen": "2026-10-02",
       "board_desc": null,
       "added": "2026-11-17",
-      "report": null,
-      "title": null,
-      "summary": null,
-      "category": null
+      "report": "products/quietpomodoro-com.md",
+      "title": "Quiet Pomodoro",
+      "summary": "免账号的极简番茄钟与专注应用",
+      "category": "效率工具"
     },
     {
       "domain": "removeailabel.com",
